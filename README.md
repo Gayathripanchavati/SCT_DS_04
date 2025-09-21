@@ -81,6 +81,6 @@ Or locally:
 python accident_analysis.py
 
 
-✅ Repository Link: https://github.com/Gayathripanchavati/SCT_DS_04/new/main?filename=README.md
+✅ Repository Link: https://github.com/Gayathripanchavati/SCT_DS_04.git
 
 #SkillCraftTechnology #AccidentDataset #DataScience #RoadSafety #EDA #MachineLearning #Python #DataVisualization
